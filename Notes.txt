@@ -15,5 +15,7 @@ TensorFlow lets us describe a graph of interacting operations that run entirely 
 
 
 Vector space models :
-Count-based methods compute the statistics of how often some word co-occurs with its neighbor words in a large text corpus, and then map these count-statistics down to a small, dense vector for each word. Predictive models directly try to predict a word from its neighbors in terms of learned small, dense embedding vectors (considered parameters of the model).
+Count-based methods compute the statistics of how often some word co-occurs with its neighbor words in a large text corpus,
+and then map these count-statistics down to a small, dense vector for each word. Predictive models directly try to 
+predict a word from its neighbors in terms of learned small, dense embedding vectors (considered parameters of the model).
 
