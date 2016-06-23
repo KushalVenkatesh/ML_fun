@@ -12,3 +12,8 @@ Instead of running a single expensive operation independently from Python,
 TensorFlow lets us describe a graph of interacting operations that run entirely outside Python. 
 (Approaches like this can be seen in a few machine learning libraries.)
 
+
+
+Vector space models :
+Count-based methods compute the statistics of how often some word co-occurs with its neighbor words in a large text corpus, and then map these count-statistics down to a small, dense vector for each word. Predictive models directly try to predict a word from its neighbors in terms of learned small, dense embedding vectors (considered parameters of the model).
+
